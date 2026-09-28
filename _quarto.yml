@@ -1,0 +1,52 @@
+project:
+  type: book
+
+book:
+  title: "IPDMA"
+  subtitle: "Adverse drug reaction project"
+  author: "Daniala Weir, Roosmarie Vriens"
+  date: "2026-09-31"
+  cover-image-alt: front_image.png
+  page-navigation: true
+  sidebar:  
+    style: docked
+    background: success
+    foreground: dark
+  chapters:
+    - index.qmd
+    - definitions.qmd
+    - part: "Plan and Fund" #if the part needs more info within this header as well you can use plan_and_fund.qmd here and add the info in the fitting doc
+      chapters: 
+        - data_management_plans.qmd
+        - privacy_and_security.qmd
+        - cost.qmd
+        - data_flow_diagram.qmd
+    - collect_and_analyse.qmd
+    - preserve_and_store.qmd
+    - publish_and_share.qmd
+    - discover_and_reuse.qmd
+    - summary.qmd
+    - references.qmd
+    - appendix.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    number-depth: 1
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+        
+
+editor: visual
+

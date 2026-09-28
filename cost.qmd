@@ -1,0 +1,3 @@
+# Cost {.unnumbered}
+
+This is the expensive page
