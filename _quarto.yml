@@ -33,9 +33,9 @@ book:
     - appendix.qmd
 
 bibliography: references.bib
+number-sections: true
 
 format:
-  number-sections: true
   html:
     theme:
       - cosmo
