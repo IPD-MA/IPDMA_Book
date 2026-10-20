@@ -16,7 +16,7 @@ book:
     background: success
     foreground: dark
   chapters:
-    - index.qmd
+    - index.qmd #this is the home page of the website
     - definitions.qmd
     - part: "Plan and Fund" #if the part needs more info within this header as well you can use plan_and_fund.qmd here and add the info in the fitting doc
       chapters: 
@@ -35,6 +35,7 @@ book:
 bibliography: references.bib
 
 format:
+  number-sections: true
   html:
     theme:
       - cosmo

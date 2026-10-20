@@ -1,5 +1,9 @@
 # Home {.unnumbered}
 
+Welcome to the website on the IPD-MA on Adverse drug reactions.
+
+Learn more about the team working on this project.
+
 Making changes to test the workflow
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
