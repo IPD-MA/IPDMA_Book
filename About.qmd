@@ -24,8 +24,31 @@ The OPEN-MRH project will create an open, secure, and interoperable platform for
 
 | Name            | Affiliation |
 |-----------------|-------------|
-| Daniala Weir    | UU          |
-| Fatma Karapinar | UMCM        |
-|Veerle van Hulten|             |
-|Maarten Lambert  |             |
-|Rafael Coronado  |             |
+|Daniala Weir         |Utrecht University                          |
+|Fatma Karapinar      |University Medical Centre Maastricht        |
+|Veerle van Hulten    |             |
+|Maarten Lambert      |Utrecht University                          |
+|Rafael Coronado      |                             |
+|Lina Heier           |Maastricht University                       |
+|Robyn Tamblyn        |McGill University                           |
+|Brooke Levis         |McGill                                      |
+|Corinne Hohl         |University of British Columbia              |
+|Thomas Kempen        |Utrecht University                          |
+|Joanna Klopotowska   |Amsterdam University Medical Centre         |
+|Emily McDonald       |McGill                                      |
+|Lisa McCarthy        |University of Toronto                       |
+|Caitriona Cahir      |Royal College of Surgeons in Ireland        |
+|Ania Syrowatka       |Brigham and Womans Hospital                 |
+|Zuzanna Juhásová     |Charles University                          |
+|Lorenz van der Linden|Katholieke Universiteit                     |
+|Olaf Klungel         |Utrecht University                          |
+|Helga Gardarsdottir  |Utrecht University                          |
+|Toine Egberts        |Utrecht University                          |
+|Frans Huigen         |Utrecht University                          |
+|Mercedes Beltran     |Utrecht University                          |
+|Jelle Treep          |Utrecht University                          |
+|Dawa Ometto          |Utrecht University                          |
+|Patrick Souverein    |Utrecht University                          |
+|Magdalena Gamba      |Utrecht University                          |
+|Roosmarie Vriens     |Utrecht University                          |
+
