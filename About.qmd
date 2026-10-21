@@ -2,7 +2,9 @@
 
 ## Motivation
 
-Medication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ([@durand2024evaluating; @hakkarainen2012percentage; @donaldson2017medication])
+Medication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ([@durand2024evaluating; @hakkarainen2012percentage; @donaldson2017medication]). Despite its importance, MRH research remains limited due to fragmented, inconsistent, and locally restricted datasets, often lacking standardized definitions, interoperability, or secure data sharing infrastructure. The OPEN-MRH project addresses these gaps by developing an internationally accessible, FAIR (Findable, Accessible, Interoperable, Reusable) platform and dataset for clinically adjudicated MRH. By aggregating high-quality datasets, developing consensus-based definitions, and leveraging secure infrastructure, OPEN-MRH will enable reproducible, cross-disciplinary research and support the development of targeted healthcare interventions to prevent MRH—ultimately improving patient outcomes and enhancing the safety of healthcare systems worldwide. OPEN-MRH directly supports the NPOS 2030 Ambition Document by advancing transparency, data reusability, and institutional collaboration, and aligns with the EOSC Multi-Annual Roadmap by delivering scalable, domain-specific infrastructure for real-world health data sharing and reuse.
+
+------------------------------------------------------------------------
 
 ## Objection
 
@@ -15,3 +17,15 @@ The OPEN-MRH project will create an open, secure, and interoperable platform for
 ------------------------------------------------------------------------
 
 ## System architecture
+
+------------------------------------------------------------------------
+
+## Collaborators and affiliations
+
+| Name            | Affiliation |
+|-----------------|-------------|
+| Daniala Weir    | UU          |
+| Fatma Karapinar | UMCM        |
+|Veerle van Hulten|             |
+|Maarten Lambert  |             |
+|Rafael Coronado  |             |

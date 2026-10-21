@@ -27,7 +27,6 @@ book:
     - collect_and_analyse.qmd
     - preserve_and_store.qmd
     - publish_and_share.qmd
-    - discover_and_reuse.qmd
     - About.qmd
     - summary.qmd
     - references.qmd
