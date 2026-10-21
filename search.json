@@ -84,63 +84,63 @@
     ]
   },
   {
-    "objectID": "discover_and_reuse.html",
-    "href": "discover_and_reuse.html",
-    "title": "5  Discover and Reuse",
-    "section": "",
-    "text": "also this part",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Discover and Reuse</span>"
-    ]
-  },
-  {
     "objectID": "About.html",
     "href": "About.html",
-    "title": "6  About",
+    "title": "5  About",
     "section": "",
-    "text": "6.1 Motivation\nMedication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ((Durand et al. 2024; Hakkarainen et al. 2012; Donaldson et al. 2017))",
+    "text": "5.1 Motivation\nMedication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ((Durand et al. 2024; Hakkarainen et al. 2012; Donaldson et al. 2017)). Despite its importance, MRH research remains limited due to fragmented, inconsistent, and locally restricted datasets, often lacking standardized definitions, interoperability, or secure data sharing infrastructure. The OPEN-MRH project addresses these gaps by developing an internationally accessible, FAIR (Findable, Accessible, Interoperable, Reusable) platform and dataset for clinically adjudicated MRH. By aggregating high-quality datasets, developing consensus-based definitions, and leveraging secure infrastructure, OPEN-MRH will enable reproducible, cross-disciplinary research and support the development of targeted healthcare interventions to prevent MRH—ultimately improving patient outcomes and enhancing the safety of healthcare systems worldwide. OPEN-MRH directly supports the NPOS 2030 Ambition Document by advancing transparency, data reusability, and institutional collaboration, and aligns with the EOSC Multi-Annual Roadmap by delivering scalable, domain-specific infrastructure for real-world health data sharing and reuse.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
     "objectID": "About.html#objection",
     "href": "About.html#objection",
-    "title": "6  About",
-    "section": "6.2 Objection",
-    "text": "6.2 Objection",
+    "title": "5  About",
+    "section": "5.2 Objection",
+    "text": "5.2 Objection",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
     "objectID": "About.html#summary",
     "href": "About.html#summary",
-    "title": "6  About",
-    "section": "6.3 Summary",
-    "text": "6.3 Summary\nThe OPEN-MRH project will create an open, secure, and interoperable platform for medication-related harm (MRH) research. By harmonizing and pooling de-identified patient-level data from international studies, it will enable large-scale analysis of MRH and its causes. This platform will provide FAIR data, shared standards, and clear guidance for researchers and institutions navigating new EU AI regulations. OPEN-MRH will strengthen global collaboration, support safe use of medications, and promote transparency, reproducibility, and responsible data governance in patient safety research. Eventually, this project will improve patients’ lives and contribute to better and more cost-effective health care by reducing unnecessary MRH in patients.",
+    "title": "5  About",
+    "section": "5.3 Summary",
+    "text": "5.3 Summary\nThe OPEN-MRH project will create an open, secure, and interoperable platform for medication-related harm (MRH) research. By harmonizing and pooling de-identified patient-level data from international studies, it will enable large-scale analysis of MRH and its causes. This platform will provide FAIR data, shared standards, and clear guidance for researchers and institutions navigating new EU AI regulations. OPEN-MRH will strengthen global collaboration, support safe use of medications, and promote transparency, reproducibility, and responsible data governance in patient safety research. Eventually, this project will improve patients’ lives and contribute to better and more cost-effective health care by reducing unnecessary MRH in patients.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
     "objectID": "About.html#system-architecture",
     "href": "About.html#system-architecture",
-    "title": "6  About",
-    "section": "6.4 System architecture",
-    "text": "6.4 System architecture\n\n\n\n\nDonaldson, Liam J, Edward T Kelley, Neelam Dhingra-Kumar, Marie-Paule Kieny, and Aziz Sheikh. 2017. “Medication Without Harm: WHO’s Third Global Patient Safety Challenge.” The Lancet 389 (10080): 1680–81.\n\n\nDurand, Maxime, Christel Castelli, Clarisse Roux-Marson, Jean-Marie Kinowski, and Geraldine Leguelinel-Blache. 2024. “Evaluating the Costs of Adverse Drug Events in Hospitalized Patients: A Systematic Review.” Health Economics Review 14 (1): 11.\n\n\nHakkarainen, Katja M, Khadidja Hedna, Max Petzold, and Staffan Hägg. 2012. “Percentage of Patients with Preventable Adverse Drug Reactions and Preventability of Adverse Drug Reactions–a Meta-Analysis.” PloS One 7 (3): e33236.",
+    "title": "5  About",
+    "section": "5.4 System architecture",
+    "text": "5.4 System architecture",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>About</span>"
+    ]
+  },
+  {
+    "objectID": "About.html#collaborators-and-affiliations",
+    "href": "About.html#collaborators-and-affiliations",
+    "title": "5  About",
+    "section": "5.5 Collaborators and affiliations",
+    "text": "5.5 Collaborators and affiliations\n\n\n\nName\nAffiliation\n\n\n\n\nDaniala Weir\nUU\n\n\nFatma Karapinar\nUMCM\n\n\nVeerle van Hulten\n\n\n\nMaarten Lambert\n\n\n\nRafael Coronado\n\n\n\n\n\n\n\n\nDonaldson, Liam J, Edward T Kelley, Neelam Dhingra-Kumar, Marie-Paule Kieny, and Aziz Sheikh. 2017. “Medication Without Harm: WHO’s Third Global Patient Safety Challenge.” The Lancet 389 (10080): 1680–81.\n\n\nDurand, Maxime, Christel Castelli, Clarisse Roux-Marson, Jean-Marie Kinowski, and Geraldine Leguelinel-Blache. 2024. “Evaluating the Costs of Adverse Drug Events in Hospitalized Patients: A Systematic Review.” Health Economics Review 14 (1): 11.\n\n\nHakkarainen, Katja M, Khadidja Hedna, Max Petzold, and Staffan Hägg. 2012. “Percentage of Patients with Preventable Adverse Drug Reactions and Preventability of Adverse Drug Reactions–a Meta-Analysis.” PloS One 7 (3): e33236.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>About</span>"
     ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
-    "title": "7  Summary",
+    "title": "6  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Summary</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
