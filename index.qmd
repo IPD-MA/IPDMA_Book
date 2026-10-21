@@ -1,13 +1,17 @@
 # Home {.unnumbered}
 
-Welcome to the website on the IPD-MA on Adverse drug reactions.
+Welcome to the website on the IPD-MA Adverse drug reactions.
 
-Learn more about the team working on this project.
+Learn more about this project.
 
-Making changes to test the workflow
+## IPDMA database
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+OPEN-MRH fills a critical gap left by existing pharmacovigilance and real-world data platforms. This unique infrastructure enables new possibilities for regulatory science, clinical research, and AI-driven safety innovation—ultimately supporting more targeted interventions, reducing preventable hospitalizations and costs, and improving patient safety and health system performance. This project will deliver outputs that directly support key stakeholder needs that will lead to this impact:
 
-```{r}
-1 + 1
-```
+-   **Researchers and data scientists** will gain access to harmonized, reusable MRH data for pooled analyses and model development across populations. They will be engaged through the co-design workshop, quarterly User Committee meetings, and GitHub-based feedback loops.
+
+-   **Healthcare professionals** will benefit from insights generated through platform-supported studies and downstream AI decision support tools (e.g. MRH risk prediction tools). Engagement will include platform design input and tailored dissemination (e.g., publications, presentations and newsletters).
+
+-   **Regulators and pharmacovigilance agencies** will use shared metadata and MRH definitions to strengthen surveillance and signal detection. They have participated in the Delphi panel and advisory roles.
+
+-   **AI developers and regulatory bodies** will use the regulatory guidance and FAIR data resources co-developed with Utrecht University’s AI Ethics and Law Group to design compliant, trustworthy healthcare AI tools.

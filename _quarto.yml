@@ -18,6 +18,7 @@ book:
   chapters:
     - index.qmd #this is the home page of the website
     - definitions.qmd
+    - About.qmd
     - part: "Plan and Fund" #if the part needs more info within this header as well you can use plan_and_fund.qmd here and add the info in the fitting doc
       chapters: 
         - data_management_plans.qmd
@@ -27,7 +28,6 @@ book:
     - collect_and_analyse.qmd
     - preserve_and_store.qmd
     - publish_and_share.qmd
-    - About.qmd
     - summary.qmd
     - references.qmd
     - appendix.qmd
