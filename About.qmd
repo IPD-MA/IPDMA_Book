@@ -1,0 +1,17 @@
+# About
+
+## Motivation
+
+Medication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ([@durand2024evaluating; @hakkarainen2012percentage; @donaldson2017medication])
+
+## Objection
+
+------------------------------------------------------------------------
+
+## Summary
+
+The OPEN-MRH project will create an open, secure, and interoperable platform for medication-related harm (MRH) research. By harmonizing and pooling de-identified patient-level data from international studies, it will enable large-scale analysis of MRH and its causes. This platform will provide FAIR data, shared standards, and clear guidance for researchers and institutions navigating new EU AI regulations. OPEN-MRH will strengthen global collaboration, support safe use of medications, and promote transparency, reproducibility, and responsible data governance in patient safety research. Eventually, this project will improve patients' lives and contribute to better and more cost-effective health care by reducing unnecessary MRH in patients.
+
+------------------------------------------------------------------------
+
+## System architecture
