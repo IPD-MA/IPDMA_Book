@@ -36,7 +36,7 @@
     "section": "",
     "text": "2.1 Motivation\nMedication-related harm (MRH) is a major yet under-addressed health challenge, causing approximately 197,000 annual deaths and €79 billion in healthcare costs in the EU alone ((Durand et al. 2024; Hakkarainen et al. 2012; Donaldson et al. 2017)). Despite its importance, MRH research remains limited due to fragmented, inconsistent, and locally restricted datasets, often lacking standardized definitions, interoperability, or secure data sharing infrastructure. The OPEN-MRH project addresses these gaps by developing an internationally accessible, FAIR (Findable, Accessible, Interoperable, Reusable) platform and dataset for clinically adjudicated MRH. By aggregating high-quality datasets, developing consensus-based definitions, and leveraging secure infrastructure, OPEN-MRH will enable reproducible, cross-disciplinary research and support the development of targeted healthcare interventions to prevent MRH—ultimately improving patient outcomes and enhancing the safety of healthcare systems worldwide. OPEN-MRH directly supports the NPOS 2030 Ambition Document by advancing transparency, data reusability, and institutional collaboration, and aligns with the EOSC Multi-Annual Roadmap by delivering scalable, domain-specific infrastructure for real-world health data sharing and reuse.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>[About]{#sec-About}</span>"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "section": "2.2 Objection",
     "text": "2.2 Objection",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>[About]{#sec-About}</span>"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "2.3 Summary",
     "text": "2.3 Summary\nThe OPEN-MRH project will create an open, secure, and interoperable platform for medication-related harm (MRH) research. By harmonizing and pooling de-identified patient-level data from international studies, it will enable large-scale analysis of MRH and its causes. This platform will provide FAIR data, shared standards, and clear guidance for researchers and institutions navigating new EU AI regulations. OPEN-MRH will strengthen global collaboration, support safe use of medications, and promote transparency, reproducibility, and responsible data governance in patient safety research. Eventually, this project will improve patients’ lives and contribute to better and more cost-effective health care by reducing unnecessary MRH in patients.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>[About]{#sec-About}</span>"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "section": "2.4 System architecture",
     "text": "2.4 System architecture\n\n\n\n\n\n\nFigure 2.1: System Architecture OPEN-MRH Platform & Dataset",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>[About]{#sec-About}</span>"
     ]
   },
   {
@@ -76,7 +76,7 @@
     "section": "2.5 Collaborators and affiliations",
     "text": "2.5 Collaborators and affiliations\n\n\n\nName\nAffiliation\n\n\n\n\nDaniala Weir\nUtrecht University\n\n\nFatma Karapinar\nUniversity Medical Centre Maastricht\n\n\nVeerle van Hulten\n\n\n\nMaarten Lambert\nUtrecht University\n\n\nRafael Coronado\n\n\n\nLina Heier\nMaastricht University\n\n\nRobyn Tamblyn\nMcGill University\n\n\nBrooke Levis\nMcGill\n\n\nCorinne Hohl\nUniversity of British Columbia\n\n\nThomas Kempen\nUtrecht University\n\n\nJoanna Klopotowska\nAmsterdam University Medical Centre\n\n\nEmily McDonald\nMcGill\n\n\nLisa McCarthy\nUniversity of Toronto\n\n\nCaitriona Cahir\nRoyal College of Surgeons in Ireland\n\n\nAnia Syrowatka\nBrigham and Womans Hospital\n\n\nZuzanna Juhásová\nCharles University\n\n\nLorenz van der Linden\nKatholieke Universiteit\n\n\nOlaf Klungel\nUtrecht University\n\n\nHelga Gardarsdottir\nUtrecht University\n\n\nToine Egberts\nUtrecht University\n\n\nFrans Huigen\nUtrecht University\n\n\nMercedes Beltran\nUtrecht University\n\n\nJelle Treep\nUtrecht University\n\n\nDawa Ometto\nUtrecht University\n\n\nPatrick Souverein\nUtrecht University\n\n\nMagdalena Gamba\nUtrecht University\n\n\nRoosmarie Vriens\nUtrecht University\n\n\n\n\n\n\n\nDonaldson, Liam J, Edward T Kelley, Neelam Dhingra-Kumar, Marie-Paule Kieny, and Aziz Sheikh. 2017. “Medication Without Harm: WHO’s Third Global Patient Safety Challenge.” The Lancet 389 (10080): 1680–81.\n\n\nDurand, Maxime, Christel Castelli, Clarisse Roux-Marson, Jean-Marie Kinowski, and Geraldine Leguelinel-Blache. 2024. “Evaluating the Costs of Adverse Drug Events in Hospitalized Patients: A Systematic Review.” Health Economics Review 14 (1): 11.\n\n\nHakkarainen, Katja M, Khadidja Hedna, Max Petzold, and Staffan Hägg. 2012. “Percentage of Patients with Preventable Adverse Drug Reactions and Preventability of Adverse Drug Reactions–a Meta-Analysis.” PloS One 7 (3): e33236.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>About</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>[About]{#sec-About}</span>"
     ]
   },
   {
