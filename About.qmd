@@ -18,6 +18,8 @@ The OPEN-MRH project will create an open, secure, and interoperable platform for
 
 ## System architecture
 
+![System Architecture OPEN-MRH Platform & Dataset](images/System_architecture-01.jpg){#fig-system_architecture}
+
 ------------------------------------------------------------------------
 
 ## Collaborators and affiliations
