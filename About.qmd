@@ -1,4 +1,4 @@
-# About {#sec-About}
+# [About]{#sec-About}
 
 ## Motivation
 
